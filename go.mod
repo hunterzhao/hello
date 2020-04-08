@@ -1,3 +1,3 @@
-module github.com/montyzhao/hello
+module github.com/hunterzhao/hello
 
 go 1.13
